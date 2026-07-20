@@ -58,11 +58,14 @@ Detection engineer with **4+ years** across SOC, incident response, and applicat
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lohith80&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohith80&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lohith80&theme=tokyonight" alt="GitHub profile summary">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lohith80&theme=tokyonight" alt="Top languages by repo">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lohith80&theme=tokyonight" alt="Most used languages by commits">
 </p>
 
 ---
