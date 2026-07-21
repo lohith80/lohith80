@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.indulohithnarisetty.com"><img src="https://img.shields.io/badge/Portfolio-indulohithnarisetty.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/indu-lohith-narisetty/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:indulohithnarisetty@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=lohith80&style=for-the-badge&color=6f42c1&label=Profile+Views" alt="Profile views">
 </p>
 
@@ -12,7 +11,7 @@
 
 ### 🛡️ whoami
 
-Detection engineer with **4+ years** across SOC, incident response, and application security. I write **detections-as-code** (Splunk SPL · Sentinel KQL · Sigma), automate triage with **SOAR**, and build security tooling — including open-source projects for **LLM security** and **Java SAST**. Based in Frisco, TX.
+Detection engineer with **4+ years** across SOC, incident response, and application security. I write **detections-as-code** (Splunk SPL · Sentinel KQL · Sigma), automate triage with **SOAR**, and build security tooling — including open-source projects for **LLM security** and **Java SAST**.
 
 - 🔭 &nbsp;Currently a **Security Analyst — Application Security**, shipping LLM-security tooling
 - 🧠 &nbsp;Focus: `detection-as-code` · `SOAR` · `purple-team` · `cloud IR` · `AI/LLM security`
@@ -72,8 +71,7 @@ Detection engineer with **4+ years** across SOC, incident response, and applicat
 
 <p align="center">
   <a href="https://www.indulohithnarisetty.com"><b>Portfolio</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/indu-lohith-narisetty/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="mailto:indulohithnarisetty@gmail.com"><b>Email</b></a>
+  <a href="https://www.linkedin.com/in/indu-lohith-narisetty/"><b>LinkedIn</b></a>
 </p>
 
 <p align="center"><i>Detection engineer — writes rules, chases alerts, automates triage.</i></p>
